@@ -11,11 +11,11 @@ Este proyecto aplica técnicas avanzadas de **Data Science** para desglosar el c
 ##  Pipeline de Datos
 El proyecto sigue un flujo de trabajo profesional dividido en cinco fases críticas:
 
-1. **ETL & Normalización**: Conexión a API corporativa, aplanamiento de estructuras JSON complejas y tratamiento riguroso de valores nulos.
-2. **Transformación Semántica**: Traducción integral del dataset al español y estandarización de categorías.
-3. **Feature Engineering**: Creación de métricas de valor como `Costo_Diario` y `Total_Servicios` para medir la densidad del contrato.
-4. **EDA (Análisis Exploratorio)**: Identificación visual de patrones demográficos y contractuales que detonan la fuga.
-5. **Análisis Estadístico**: Implementación de matrices de correlación para validar hipótesis de negocio.
+1. ETL & Normalización: Conexión a API corporativa, aplanamiento de estructuras JSON complejas y tratamiento riguroso de valores nulos.
+2. Transformación Semántica: Traducción integral del dataset al español y estandarización de categorías.
+3. Feature Engineering: Creación de métricas de valor como `Costo_Diario` y `Total_Servicios` para medir la densidad del contrato.
+4. EDA (Análisis Exploratorio): Identificación visual de patrones demográficos y contractuales que detonan la fuga.
+5. Análisis Estadístico: Implementación de matrices de correlación para validar hipótesis de negocio.
 
 ---
 
