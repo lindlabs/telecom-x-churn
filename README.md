@@ -34,9 +34,9 @@ El proyecto sigue un flujo de trabajo profesional dividido en cinco fases críti
 
 Basado en la evidencia de los datos, se proponen tres ejes de acción:
 
-* ** Blindaje de Clientes Nuevos**: Implementar programas de éxito del cliente durante los primeros 12 meses, detectado como el periodo de mayor riesgo.
-* ** Optimización de Cobranza**: Incentivar la migración de **Cheque Electrónico** a métodos automáticos, reduciendo la fricción en el pago que genera Churn.
-* ** Gestión de Precios**: Revisar la competitividad de planes con cargos mensuales elevados, ya que presentan una correlación directa con la pérdida de clientes.
+*  Blindaje de Clientes Nuevos: Implementar programas de éxito del cliente durante los primeros 12 meses, detectado como el periodo de mayor riesgo.
+*  Optimización de Cobranza: Incentivar la migración de **Cheque Electrónico** a métodos automáticos, reduciendo la fricción en el pago que genera Churn.
+*  Gestión de Precios: Revisar la competitividad de planes con cargos mensuales elevados, ya que presentan una correlación directa con la pérdida de clientes.
 
 ---
 
