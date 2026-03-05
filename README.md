@@ -8,7 +8,7 @@ Este proyecto aplica técnicas avanzadas de **Data Science** para desglosar el c
 
 ---
 
-## 🛠️ Pipeline de Datos
+##  Pipeline de Datos
 El proyecto sigue un flujo de trabajo profesional dividido en cinco fases críticas:
 
 1. **ETL & Normalización**: Conexión a API corporativa, aplanamiento de estructuras JSON complejas y tratamiento riguroso de valores nulos.
@@ -40,7 +40,7 @@ Basado en la evidencia de los datos, se proponen tres ejes de acción:
 
 ---
 
-## ⚙️ Configuración del Entorno
+##  Configuración del Entorno
 
 1. **Clonación**: `git clone https://github.com/lindlabs/telecom-x-churn.git`
 2. **Dependencias**: `pip install pandas matplotlib seaborn`
